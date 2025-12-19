@@ -13,8 +13,8 @@ O Finance.ai é uma plataforma SaaS de gestão financeira pessoal que utiliza In
 
 ## 3. Funcionalidades do MVP (Escopo Inicial)
 ### 3.1. Autenticação & Usuários
-- [ ] Login Social (Google) via NextAuth/Clerk.
-- [ ] Proteção de rotas (Middleware).
+- [x] Login Social (Google) via NextAuth/Clerk.
+- [x] Proteção de rotas (Middleware).
 
 ### 3.2. Gestão de Transações
 - [ ] CRUD completo de transações (Receitas e Despesas).
